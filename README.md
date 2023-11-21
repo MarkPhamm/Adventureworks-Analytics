@@ -7,7 +7,7 @@ This analytics project is dedicated to driving revenue for AdventureWorks Cycles
 AdventureWorks Cycles is a prominent multinational manufacturing company specializing in the production and distribution of metal and composite bicycles. With a significant presence in commercial markets across North America, Europe, and Asia, AdventureWorks Cycles has established itself as a key player in the industry. The company's headquarters is located in Bothell, Washington, where it employs a workforce of 500 individuals. In addition to its central operations, AdventureWorks Cycles has deployed regional sales teams strategically to serve its diverse market base effectively. 
 
 ## Tools
-Tools used: SQL Server, Python, Power BI, Azure
+**Tools used: ** SQL Server, Python notebook, PowerBI, Azure Data Studio
 
 ## Steps
 The project will include all 4 main steps of the data analysis project from Descriptive/Diagnostic to Predictive/Prescriptive analysis. The project will include a full data life cycle from Cleaning/Transformation --> Report --> Machine Learning/Deep Learning Model
@@ -18,13 +18,17 @@ The project will include all 4 main steps of the data analysis project from Desc
   2. Time Series Analysis
   3. Customer Analysis
   4. Product Analysis
+    
 * Diagnostics: (Dashboard with PowerBI)
   5. Geographical Analysis
   6. Demographic Analysis
+
 * Predictive: (Demand Planning with Machine Learning/Deep Learning using Python)
   7. ARIMA Model
   8. LSTM Model
   9. Model evaluation
+
+
 * Prescriptive:
   * Actionable Insight:
     * Focus on Mountain bikes, especially the Model 200
