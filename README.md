@@ -15,8 +15,8 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 **Tools used:** SQL Server, Python notebook, PowerBI, Azure Data Studio
 
 ## Steps
-The project will include a full data life cycle from Cleaning/Transformation --> Report --> Machine Learning/Deep Learning Model
-The project will include all 4 main steps of the data analysis project from Descriptive/Diagnostic to Predictive/Prescriptive analysis.
+
+The project will include a full data life cycle all 4 main steps of the data analysis project from Descriptive/Diagnostic to Predictive/Prescriptive analysis.
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/f51e16de-879d-4317-9ba5-f6cb0101cd85)
 
 ## Appendix
@@ -75,7 +75,7 @@ The project will include all 4 main steps of the data analysis project from Desc
 ### Model evaluation
 
 ## 4. Prescriptive:**
-### Actionable Insight:
+### Business Proposal (To-be​)Actionable Insight:
 * Focus on Mountain bikes, especially the Model 200
 * Focus on selling Accessories and Clothing for a higher Profit Margin
 * Use the Machine Learning Model to Predict the demand for the next month for better preparation
