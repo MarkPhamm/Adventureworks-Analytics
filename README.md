@@ -15,32 +15,30 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 **Tools used:** SQL Server, Python notebook, PowerBI, Azure Data Studio
 
 ## Steps
-The project will include all 4 main steps of the data analysis project from Descriptive/Diagnostic to Predictive/Prescriptive analysis. The project will include a full data life cycle from Cleaning/Transformation --> Report --> Machine Learning/Deep Learning Model
+The project will include a full data life cycle from Cleaning/Transformation --> Report --> Machine Learning/Deep Learning Model
+The project will include all 4 main steps of the data analysis project from Descriptive/Diagnostic to Predictive/Prescriptive analysis.
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/f51e16de-879d-4317-9ba5-f6cb0101cd85)
 
-* **Descriptive Analysis:** (Adhoc Analysis with Python, Azure, and SQL)
+## Appendix
+* **Descriptive Analysis:** (Python, Azure, and SQL)
   * Key Metrics Analysis
   * Time Series Analysis
   * Product Analysis
   * Customer Analysis
   
 * **Diagnostics Analysis:** (Dashboard with PowerBI)
-  * ... Dashboard
+  * Time Series Dashboard
   * Geographical Dashboard
   * Demographic Dashboard
   * Product Selection Dashboard
  
-* **Predictive:** (Demand Planning with Machine Learning/Deep Learning using Python)
+* **Predictive Analysis:** (Machine Learning/Deep Learning using Python)
   * ARIMA Model
   * LSTM Model
   * Model evaluation
   
-* **Prescriptive:**
+* **Prescriptive Analysis:** (Recommendation for the next year)
   * Actionable Insight:
-    * Focus on Mountain bikes, especially the Model 200
-    * Focus on selling Accessories and Clothing for a higher Profit Margin
-    * Use the Machine Learning Model to Predict the demand for the next month for better preparation
-    * Deliver marketing campaign for the first half of the year (from January to May) with the customer Persona information Above
 
 # About the Data
 
@@ -71,14 +69,15 @@ The project will include all 4 main steps of the data analysis project from Desc
 ### Product Selection Dashboard
 
 
-## Predictive:
+## 3. Predictive:
 ### ARIMA Model
 ### LSTM Model 
 ### Model evaluation
 
-## Prescriptive:**
+## 4. Prescriptive:**
 ### Actionable Insight:
 * Focus on Mountain bikes, especially the Model 200
 * Focus on selling Accessories and Clothing for a higher Profit Margin
 * Use the Machine Learning Model to Predict the demand for the next month for better preparation
 * Deliver marketing campaign for the first half of the year (from January to May) with the customer Persona information Above
+
