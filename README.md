@@ -16,65 +16,94 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 
 ## Steps
 
-The project will include a full data life cycle all 4 main steps of the data analysis project from Descriptive/Diagnostic to Predictive/Prescriptive analysis.
+The project will include a full data life cycle with 5 main steps: 
+a. Data Cleaning and Transformation
+b. Descriptive analysis
+c. Diagnostic analysis
+d. Predictive analysis
+e. Prescriptive analysis.
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/f51e16de-879d-4317-9ba5-f6cb0101cd85)
 
 ## Appendix
-* **Descriptive Analysis:** (Python, Azure, and SQL)
+* **a. Data Cleaning and Transformation:** (SQL Server)
+  * Assumptions
+  * Transformation
+  * New Star Schema
+* **b. Descriptive Analysis:** (Python, Azure, and SQL)
   * Key Metrics Analysis
   * Time Series Analysis
   * Product Analysis
   * Customer Analysis
-  
-* **Diagnostics Analysis:** (Dashboard with PowerBI)
+* **c. Diagnostics Analysis:** (Dashboard with PowerBI)
   * Time Series Dashboard
   * Geographical Dashboard
   * Demographic Dashboard
   * Product Selection Dashboard
- 
-* **Predictive Analysis:** (Machine Learning/Deep Learning using Python)
+* **d. Predictive Analysis:** (Machine Learning/Deep Learning using Python)
   * ARIMA Model
   * LSTM Model
   * Model evaluation
-  
-* **Prescriptive Analysis:** (Recommendation for the next year)
-  * Actionable Insight:
-
-# About the Data
-
-## Assumptions
-## Data Cleaning and further Transformation
-
+* **e. Prescriptive Analysis:** (Recommendation for the next year)
+  * To-be Business model with Actionable Insight
 
 # Analysis
+## a. Data Cleaning and Transformation:
+  * Assumptions
+  * Transformation
+  * New Star Schema
 
-## 1. Descriptive
-### Key Metrics
-* Revenue
-* Profit
-* ...
-### Time Series Analysis
-* Yearly
-* Quarterly
-* Monthly
-### Customer Analysis
+## b. Descriptive
+
+### 1. Key Metrics
+#### 1.1: Metrics
+ - Total Revenue: $29
+ - Total Profit: $9M
+ - Total Tax Amount: $2,4M
+ - Total Freight Cost: $734K
+ - AVG Profit Margin: 42.84%
+#### 1.2: Takeaways:
+ - 
+
+### 2. Time Series Analysis (Only 2011, 2012, 2013, Exclude Dec 2010 and Jan 2014)
+#### 2.2: Takeaways: 
+- **Yearly**
+    - 2011: 7 Millions
+    - 2012: 6 Millions
+    - 2013: 14 Millions
+    - 2014 and 2010: 2 Millions (December 2010 and January 2011)
+- **Quarterly**
+    - Better in the 2nd quarter than in the first quarter
+- **Monthly**
+    - Best: June, October, November, December
+    - Worst: January, February, April
+  
+  #### 2.1: Graphs:
+   * **2.1.1: Cumulative trends**
+   ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/c938cd70-c199-4f1d-bdf2-30ea2344b556)
+   * **2.1.2: Monthly Trends (by year)**
+  ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/36c4edb9-a2b3-42e7-971d-7a71f5b2af92)
+   * **2.1.3: Monthly BreakDown (Part as whole)**
+  ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/7959357f-a15c-4c19-ba68-2c742374b3d3)
+   * **2.1.4: Monthly (%) Comparison (By Years)**
+  ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/1ba5c55e-a057-47b1-8269-1de03058fe0f)
+### 3. Product Analysis
+* Top Selling Product
+### 4. Customer Analysis
 * Customer Demographic
 * Top 5 customer
-### Product Analysis
-* Top Selling Product
 
-## 2. Diagnostics
+## c. Diagnostics
 ### Geographical Dashboard
 ### Demographic Dashboard
 ### Product Selection Dashboard
 
 
-## 3. Predictive:
+## d. Predictive:
 ### ARIMA Model
 ### LSTM Model 
 ### Model evaluation
 
-## 4. Prescriptive:**
+## e. Prescriptive:**
 ### Business Proposal (To-be​)Actionable Insight:
 * Focus on Mountain bikes, especially the Model 200
 * Focus on selling Accessories and Clothing for a higher Profit Margin
