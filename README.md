@@ -1,5 +1,5 @@
 # General Overview
-This analytics project aims to boost AdventureWorks Cycles' revenue by analyzing company data. Emphasis is on using analytics for insights and trend identification. The process includes accessing the data warehouse, thorough cleaning, and transformation, followed by a detailed examination to extract valuable insights for strategic decision-making.
+This analytics project aims to boost AdventureWorks Cycles' revenue by analyzing company data. The process includes accessing the data warehouse, thorough cleaning, and transformation, followed by a detailed examination to extract valuable insights for strategic decision-making.
 
 **Goal**: 
 * **Interactive:** Discover trends and make informed decisions in their respective roles.
