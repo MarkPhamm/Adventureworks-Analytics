@@ -55,17 +55,13 @@ e. Prescriptive analysis.
 ## b. Descriptive
 
 ### 1. Key Metrics
-#### 1.1: Metrics
- - Total Revenue: $29
+ - Total Revenue: $29M
  - Total Profit: $9M
- - Total Tax Amount: $2,4M
+ - Total Tax Amount: $2,349K
  - Total Freight Cost: $734K
- - AVG Profit Margin: 42.84%
-#### 1.2: Takeaways:
- - 
+ - Profit Margin: 42.84%
 
 ### 2. Time Series Analysis (Only 2011, 2012, 2013, Exclude Dec 2010 and Jan 2014)
-#### 2.2: Takeaways: 
 - **Yearly**
     - 2011: 7 Millions
     - 2012: 6 Millions
@@ -76,21 +72,11 @@ e. Prescriptive analysis.
 - **Monthly**
     - Best: June, October, November, December
     - Worst: January, February, April
-  
-  #### 2.1: Graphs:
-   * **2.1.1: Cumulative trends**
-   ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/c938cd70-c199-4f1d-bdf2-30ea2344b556)
-   * **2.1.2: Monthly Trends (by year)**
-  ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/36c4edb9-a2b3-42e7-971d-7a71f5b2af92)
-   * **2.1.3: Monthly BreakDown (Part as whole)**
-  ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/7959357f-a15c-4c19-ba68-2c742374b3d3)
-   * **2.1.4: Monthly (%) Comparison (By Years)**
-  ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/1ba5c55e-a057-47b1-8269-1de03058fe0f)
+
 ### 3. Product Analysis
-* Top Selling Product
+- 
 ### 4. Customer Analysis
-* Customer Demographic
-* Top 5 customer
+#### Takeaways: 
 
 ## c. Diagnostics
 ### Geographical Dashboard
