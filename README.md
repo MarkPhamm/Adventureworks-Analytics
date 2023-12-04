@@ -16,11 +16,16 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 
 ## Steps
 
-The project will include a full data life cycle with 5 main steps: 
+The project will include a full data life cycle with 5 main steps and 12 smaller steps: 
+
 a. Data Cleaning and Transformation
+
 b. Descriptive analysis
+
 c. Diagnostic analysis
+
 d. Predictive analysis
+
 e. Prescriptive analysis.
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/f51e16de-879d-4317-9ba5-f6cb0101cd85)
 
@@ -29,22 +34,26 @@ e. Prescriptive analysis.
   * Assumptions
   * Transformation
   * New Star Schema
+   
 * **b. Descriptive Analysis:** (Python, Azure, and SQL)
-  * Key Metrics Analysis
-  * Time Series Analysis
-  * Product Analysis
-  * Customer Analysis
+  * Step 1: Key Metrics Analysis
+  * Step 2: Time Series Analysis
+  * Step 3: Product Analysis
+  * Step 4: Customer Analysis
+ 
 * **c. Diagnostics Analysis:** (Dashboard with PowerBI)
-  * Time Series Dashboard
-  * Geographical Dashboard
-  * Demographic Dashboard
-  * Product Selection Dashboard
+  * Step 5: Time Series Dashboard
+  * Step 6: Geographical Dashboard
+  * Step 7: Demographic Dashboard
+  * Step 8: Product Selection Dashboard
+  
 * **d. Predictive Analysis:** (Machine Learning/Deep Learning using Python)
-  * ARIMA Model
-  * LSTM Model
-  * Model evaluation
+  * Step 9: ARIMA Model
+  * Step 10: LSTM Model
+  * Step 11: Model evaluation
+  
 * **e. Prescriptive Analysis:** (Recommendation for the next year)
-  * To-be Business model with Actionable Insight
+  * Step 12: To-be Business model with Actionable Insight
 
 # Analysis
 ## a. Data Cleaning and Transformation:
@@ -74,23 +83,36 @@ e. Prescriptive analysis.
     - Worst: January, February, April
 
 ### 3. Product Analysis
-- 
+- **Overview**
+  - Bikes (95% Profits) (Clothing for 4%) and (Accessories for 1%)
+  - Best Selling: Model 200 (mountain bikes)
+- **Cutting/Reintroduction**
+  - Model Mountain 100 has been cut, in replaced with Mountain 400-500, with relatively low revenue (first year).
+  - 2011: Mountain 100,  2012: Mountain 200, 2013 Mountain: 200, 400, 500
+  - 
+
+- **Specific**
 ### 4. Customer Analysis
 #### Takeaways: 
 
 ## c. Diagnostics
-### Geographical Dashboard
-### Demographic Dashboard
-### Product Selection Dashboard
+### 5. Time Series Dashboard (Why was 2013 Revenue so high?)
+- Mountain Bikes Sales increase
+- Accessories and Clothing was introduced
+- Touring Bikes was introduced (Generating 3.7 million dollars).
+### 6. Geographical Dashboard
+### 7. Demographic Dashboard
+### 8. Product Selection Dashboard
 
 
-## d. Predictive:
-### ARIMA Model
-### LSTM Model 
-### Model evaluation
+## d. Predictive Analysis:
+### 9. ARIMA Model
+### 10. LSTM Model 
+### 11. Model evaluation
 
-## e. Prescriptive:**
-### Business Proposal (To-be​)Actionable Insight:
+## e. Prescriptive Analysis:**
+### 12. Business Proposal (To-be​)Actionable Insight:
+* Shift focus from Road bikes to Mountain Bikes
 * Focus on Mountain bikes, especially the Model 200
 * Focus on selling Accessories and Clothing for a higher Profit Margin
 * Use the Machine Learning Model to Predict the demand for the next month for better preparation
