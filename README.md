@@ -14,22 +14,8 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 ## Tools
 **Tools used:** SQL Server, Python notebook, PowerBI, Azure Data Studio
 
-## Steps
-
-The project will include a full data life cycle with 5 main steps and 12 smaller steps: 
-
-a. Data Cleaning and Transformation
-
-b. Descriptive analysis
-
-c. Diagnostic analysis
-
-d. Predictive analysis
-
-e. Prescriptive analysis.
-![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/f51e16de-879d-4317-9ba5-f6cb0101cd85)
-
 ## Appendix
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/f51e16de-879d-4317-9ba5-f6cb0101cd85)
 * **a. Data Cleaning and Transformation:** (SQL Server)
   * Assumptions
   * Transformation
@@ -66,7 +52,7 @@ e. Prescriptive analysis.
 ### 1. Key Metrics
  - Total Revenue: $29M
  - Total Profit: $9M
- - Total Tax Amount: $2,349K
+ - Total Tax Amount: $2.4M
  - Total Freight Cost: $734K
  - Profit Margin: 42.84%
 
