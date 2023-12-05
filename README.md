@@ -61,7 +61,7 @@ e. Prescriptive analysis.
   * Transformation
   * New Star Schema
 
-## b. Descriptive
+## b. Descriptive Analysis
 
 ### 1. Key Metrics
  - Total Revenue: $29M
@@ -95,7 +95,7 @@ e. Prescriptive analysis.
 ### 4. Customer Analysis
 #### Takeaways: 
 
-## c. Diagnostics
+## c. Diagnostics Analysis
 ### 5. Time Series Dashboard (Why was 2013 Revenue so high?)
 - Mountain Bikes Sales increase
 - Accessories and Clothing was introduced
