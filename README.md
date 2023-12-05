@@ -97,7 +97,7 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 ### 11. Model evaluation
 
 ## e. Prescriptive Analysis:**
-### 12. Business Proposal (To-be​)Actionable Insight:
+### 12. Business Proposal (To-be​) Actionable Insight:
 * Shift focus from Road bikes to Mountain Bikes
 * Focus on Mountain bikes, especially the Model 200
 * Focus on selling Accessories and Clothing for a higher Profit Margin
