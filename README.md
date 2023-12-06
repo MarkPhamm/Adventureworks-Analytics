@@ -64,13 +64,18 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 
 ### 2. Time Series Analysis (Only 2011, 2012, 2013, Exclude Dec 2010 and Jan 2014)
 - **Yearly**
+
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/ea6be652-d5bf-4c36-aebe-c8fb8c1c5147)
+
     - 2011: 7 Millions
     - 2012: 6 Millions
     - 2013: 14 Millions
-    - 2014 and 2010: 2 Millions (December 2010 and January 2011)
-- **Quarterly**
-    - Better in the 2nd quarter than in the first quarter
+    - 2014 and 2010: 2 Millions (December 2010 and January 2011
+  
 - **Monthly**
+
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/7d7a5735-85c7-4e03-8e73-9160c59b46b1)
+
     - Best: June, October, November, December
     - Worst: January, February, April
 
