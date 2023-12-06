@@ -1,3 +1,5 @@
+**Please download the HTML version of the Jupiter Notebook to interact with the Chart**
+
 # General Overview
 This analytics project aims to boost AdventureWorks Cycles' revenue by analyzing company data. The process includes accessing the data warehouse, data cleaning, and transformation, followed by a detailed examination to extract valuable insights for strategic decision-making.
 
