@@ -20,6 +20,7 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
   * Assumptions
   * Transformation
   * New Star Schema
+
    
 * **b. Descriptive Analysis:** (Python, Azure, and SQL)
   * Step 1: Key Metrics Analysis
@@ -43,9 +44,14 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 
 # Analysis
 ## a. Data Cleaning and Transformation:
-  * Assumptions
-  * Transformation
-  * New Star Schema
+  * **Assumptions**
+  * **Transformation:** Given that we don't require all the columns from the table, it is advisable to cherry-pick only the essential ones. Additionally, we plan to:
+    * Data cleaning by standardized datetime values for improved consistency.
+    * Eliminate unnecessary columns
+    * Apply more reader-friendly names.
+    * Introduce new calculated columns, including Profit, Profit Margin, ShipStatus, TimeToArrive, TimeToShip, Model Name, and Customer Age for enhanced analytical insights.
+  * **New Star Schema:**
+     ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/ea06b28f-57af-4e2f-8ca8-ea94243f9495) 
 
 ## b. Descriptive Analysis
 
