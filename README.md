@@ -85,7 +85,7 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 - **Overview**
   - Bikes (95% Profits) (Clothing for 4%) and (Accessories for 1%)
   - Best Selling: Model 200 (mountain bikes)
-- **Cutting/Reintroduction**
+- **Product Cutting/Reintroduction**
   - Model Mountain 100 has been cut, in replaced with Mountain 400-500, with relatively low revenue (first year).
   - 2011: Mountain 100,  2012: Mountain 200, 2013 Mountain: 200, 400, 500
   - 
@@ -97,7 +97,7 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 ## c. Diagnostics Analysis
 ### 5. Time Series Dashboard (Why was 2013 Revenue so high?)
 - Mountain Bikes Sales increase
-- Accessories and Clothing was introduced
+- Accessories and Clothing were introduced
 - Touring Bikes was introduced (Generating 3.7 million dollars).
 ### 6. Geographical Dashboard
 ### 7. Demographic Dashboard
