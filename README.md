@@ -85,10 +85,7 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 - **Overview**
   - Bikes (95% Profits) (Clothing for 4%) and (Accessories for 1%)
   - Best Selling: Model 200 (mountain bikes)
-- **Product Cutting/Reintroduction**
-  - Model Mountain 100 has been cut, in replaced with Mountain 400-500, with relatively low revenue (first year).
-  - 2011: Mountain 100,  2012: Mountain 200, 2013 Mountain: 200, 400, 500
-  - 
+  - Worst selling
 
 - **Specific**
 ### 4. Customer Analysis
@@ -116,4 +113,17 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 * Focus on selling Accessories and Clothing for a higher Profit Margin
 * Use the Machine Learning Model to Predict the demand for the next month for better preparation
 * Deliver marketing campaign for the first half of the year (from January to May) with the customer Persona information Above
+
+
+
+1. Cut product
+2. Using that budget to create a marketing campaign to tap into a new market for Model 200
+   * Location: Seashore (Similar to the top 5 states)
+     *  
+   * Demographic:
+     * Both Males and Females
+     *   
+   * Time seasonality: June, October, November, December
+3. Create bundles with the Marketing campaign
+4. Marketing channel:
 
