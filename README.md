@@ -46,7 +46,6 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 
 # Analysis
 ## a. Data Cleaning and Transformation:
-  * **Assumptions**
   * **Transformation:** Given that we don't require all the columns from the table, it is advisable to cherry-pick only the essential ones. Additionally, we plan to:
     * Data cleaning by standardized datetime values for improved consistency.
     * Eliminate unnecessary columns
@@ -82,48 +81,80 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
     - Worst: January, February, April
 
 ### 3. Product Analysis
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/84a97a38-c8cf-485d-8676-37aeb2528ea5)
 - **Overview**
   - Bikes (95% Profits) (Clothing for 4%) and (Accessories for 1%)
-  - Best Selling: Model 200 (mountain bikes)
-  - Worst selling
+- **Best and worst Selling**
+  - Best Selling: Mountain Model 200 (high revenue, high profit)
+  - Worst selling: Road 650, Road 750, Clothing Caps (low Revenue, low profit Margin)
 
-- **Specific**
+
 ### 4. Customer Analysis
-#### Takeaways: 
 
 ## c. Diagnostics Analysis
 ### 5. Time Series Dashboard (Why was 2013 Revenue so high?)
-- Mountain Bikes Sales increase
+- Mountain Bikes Sales increase (Especially model 200)
 - Accessories and Clothing were introduced
 - Touring Bikes was introduced (Generating 3.7 million dollars).
+
 ### 6. Geographical Dashboard
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/82375fb2-1279-4c0f-8b11-8914918599ae)
+
+Here are the best current markets for the Model 200
+- Top Country:
+- Top States: California, England (General), New Southwale, Washington, British Columbia, Queensland (All coast state)
+- Top City: London, Paris, Bendigo, Wollongong, Berlin
+
 ### 7. Demographic Dashboard
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/13c3baae-47fd-400e-a3a4-ee689acf097e)
+
+Here are the current demographic needs for the Model 200
+- Education: Bachelors, Graduate and Partial College
+- Occupation: Professional, Management, and Skill Manual
+- Sex: Both M and F
+- Income: $70000
+- Age: From 40 to 60
+
 ### 8. Product Selection Dashboard
+  - Best Selling: Mountain Model 200 (high revenue, high profit)
+  - Worst selling: Road 650, Road 750, Clothing Caps (low Revenue, low-profit Margin)
 
 
 ## d. Predictive Analysis:
-### 9. ARIMA Model
-### 10. LSTM Model 
-### 11. Model evaluation
+### 9. Trendline
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/75555e76-62dc-40f4-b5f3-366fe8d7502a)
+
+### 10. ARIMA Model
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/91b0cb94-0d52-4291-bf04-baeb1c312e7d)
+
+### 11. LSTM model
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/9dd736d6-5894-432c-91cb-5d211d450192)
+
+
 
 ## e. Prescriptive Analysis:
 ### 12. Business Proposal (To-be​) Actionable Insight:
-* Shift focus from Road bikes to Mountain Bikes
-* Focus on Mountain bikes, especially the Model 200
-* Focus on selling Accessories and Clothing for a higher Profit Margin
-* Use the Machine Learning Model to Predict the demand for the next month for better preparation
-* Deliver marketing campaign for the first half of the year (from January to May) with the customer Persona information Above
-
-
-
-1. Cut product
-2. Using that budget to create a marketing campaign to tap into a new market for Model 200
-   * Location: Seashore (Similar to the top 5 states)
-     *  
-   * Demographic:
-     * Both Males and Females
-     *   
-   * Time seasonality: June, October, November, December
-3. Create bundles with the Marketing campaign
-4. Marketing channel:
+1. **Cut product**
+2. **Using that budget to create a marketing campaign to tap into a new market for Model 200**
+   * **Location Suggestions: (Appalachian Mountains:)**
+   * **Citerias:**
+   ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/eb253e0f-59e6-4612-b662-d1c0ba24612d)
+   * **Sugesstions**
+     *  Virginia (Roanoke)
+     *  West Virginia (Morgantown)
+     *  North Carolina (Asheville)
+   * **Demographic:**
+     - Education: Bachelors, Graduate and Partial College
+     - Occupation: Professional, Management, and Skill Manual
+     - Sex: Both M and F
+     - Income: $70000
+     - Age: From 40 to 60
+   * **Time seasonality:**
+     - June
+     - October
+     - November
+     - December
+3. **Create bundles with the Marketing campaign**
+4. **Marketing channel:**
+   - 
 
