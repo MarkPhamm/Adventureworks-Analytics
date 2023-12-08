@@ -96,6 +96,8 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 
 
 ### 4. Customer Analysis
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/b7a44326-7ec2-47e6-adaa-62aec3a8b220)
+
 * **Education:** Bachelors, Graduate and Partial College
 * **Occupation:** Professional, Management, and Skill Manual
 * **Sex:** Both M and F
@@ -172,7 +174,7 @@ Here are the current demographic needs for the Model 200
    * Create bundles when selling Mountain Bikes with Clothing/Accessories to increase purchasing initiative 
      
 5. **Marketing channel:**
-   * Local Bike Festivals - heart of Virginia bike festival, youth  cross country bicycle rodeo
+   * Local Bike Festivals - heart of Virginia bike festival, youth  cross-country bicycle rodeo
    * Partnership with local communities
    * Sponsorships, influencers, competitive bikers
      
