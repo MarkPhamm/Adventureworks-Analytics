@@ -84,7 +84,8 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
     - Worst: January, February, April
 
 ### 3. Product Analysis
-![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/84a97a38-c8cf-485d-8676-37aeb2528ea5)
+![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/66a535a2-e9bf-4911-b4be-287b10ce355a)
+
 *  **Overview**
    - **Bikes:** 95% Profits
    - **Clothing:** 4% Profits
