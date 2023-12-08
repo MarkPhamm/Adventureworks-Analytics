@@ -37,9 +37,9 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
   * Step 8: Product Selection Dashboard
   
 * **d. Predictive Analysis:** (Machine Learning/Deep Learning using Python)
-  * Step 9: ARIMA Model
-  * Step 10: LSTM Model
-  * Step 11: Model evaluation
+  * Step 9: Trendline
+  * Step 10: ARIMA Model
+  * Step 11: LSTM Model
   
 * **e. Prescriptive Analysis:** (Recommendation for the next year)
   * Step 12: To-be Business model with Actionable Insight
