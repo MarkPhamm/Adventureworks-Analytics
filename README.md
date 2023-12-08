@@ -14,8 +14,11 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 
 
 ## Tools
-**Tools used:** SQL Server, Python notebook, PowerBI, Azure Data Studio
-
+**Tools used:** 
+* SQL Server
+* Python notebook
+* Azure Data Studio
+* PowerBI
 ## Appendix
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/f51e16de-879d-4317-9ba5-f6cb0101cd85)
 * **a. Data Cleaning and Transformation:** (SQL Server)
@@ -51,11 +54,11 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
     * Eliminate unnecessary columns
     * Apply more reader-friendly names.
     * Introduce new calculated columns, including Profit, Profit Margin, ShipStatus, TimeToArrive, TimeToShip, Model Name, and Customer Age for enhanced analytical insights.
+     
   * **New Star Schema:**
      ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/ea06b28f-57af-4e2f-8ca8-ea94243f9495) 
 
 ## b. Descriptive Analysis
-
 ### 1. Key Metrics
  - Total Revenue: $29M
  - Total Profit: $9M
@@ -64,7 +67,7 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
  - Profit Margin: 42.84%
 
 ### 2. Time Series Analysis (Only 2011, 2012, 2013, Exclude Dec 2010 and Jan 2014)
-- **Yearly**
+* **Yearly**
 
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/ea6be652-d5bf-4c36-aebe-c8fb8c1c5147)
 
@@ -73,7 +76,7 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
     - 2013: 14 Millions
     - 2014 and 2010: 2 Millions (December 2010 and January 2011
   
-- **Monthly**
+* **Monthly**
 
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/7d7a5735-85c7-4e03-8e73-9160c59b46b1)
 
@@ -82,14 +85,21 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 
 ### 3. Product Analysis
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/84a97a38-c8cf-485d-8676-37aeb2528ea5)
-- **Overview**
-  - Bikes (95% Profits) (Clothing for 4%) and (Accessories for 1%)
-- **Best and worst Selling**
-  - Best Selling: Mountain Model 200 (high revenue, high profit)
-  - Worst selling: Road 650, Road 750, Clothing Caps (low Revenue, low profit Margin)
+*  **Overview**
+   - **Bikes:** 95% Profits
+   - **Clothing:** 4% Profits
+   - **Accessories:** 1% Profits
+* **Best and worst Selling**
+  - **Best Selling:** Mountain Model 200 (high revenue, high profit)
+  - **Worst selling** Road 650, Road 750, Clothing Caps (low Revenue, low profit Margin)
 
 
 ### 4. Customer Analysis
+* **Education:** Bachelors, Graduate and Partial College
+* **Occupation:** Professional, Management, and Skill Manual
+* **Sex:** Both M and F
+* **Income:** $70000
+* **Age:** From 40 to 60
 
 ## c. Diagnostics Analysis
 ### 5. Time Series Dashboard (Why was 2013 Revenue so high?)
@@ -101,7 +111,7 @@ AdventureWorks Cycles, headquartered in Bothell, Washington, is a major multinat
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/82375fb2-1279-4c0f-8b11-8914918599ae)
 
 Here are the best current markets for the Model 200
-- Top Country:
+- Top Country: USA, Australia, United Kingdom
 - Top States: California, England (General), New Southwale, Washington, British Columbia, Queensland (All coast state)
 - Top City: London, Paris, Bendigo, Wollongong, Berlin
 
@@ -133,7 +143,7 @@ Here are the current demographic needs for the Model 200
 
 
 ## e. Prescriptive Analysis:
-### 12. Business Proposal (To-be​) Actionable Insight:
+### 12. Business Proposal (To-be​) Actionable Insight: Increase Model-200 Sales
 1. **Cut product**
    * Cut Road 650, Road 750, Clothing Caps
     
