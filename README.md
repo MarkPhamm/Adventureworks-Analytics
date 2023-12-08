@@ -136,6 +136,7 @@ Here are the current demographic needs for the Model 200
 ### 12. Business Proposal (To-be​) Actionable Insight:
 1. **Cut product**
    * Cut Road 650, Road 750, Clothing Caps
+    
 3. **Using that budget to create a marketing campaign to tap into a new market for Model 200**
    * **Location:** Appalachian Mountains
    * **Criteria:**
@@ -162,5 +163,8 @@ Here are the current demographic needs for the Model 200
 5. **Marketing channel:**
    * Local Bike Festivals - heart of Virginia bike festival, youth  cross country bicycle rodeo
    * Partnership with local communities
-   * Sponsorships, influencers, competitive bikers 
-
+   * Sponsorships, influencers, competitive bikers
+     
+6. **Forecast potential result**
+   * Model-200 Revenue will increase by 50%
+   * Clothing and Accessories will increase by 30%
