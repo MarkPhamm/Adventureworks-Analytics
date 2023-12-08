@@ -161,6 +161,6 @@ Here are the current demographic needs for the Model 200
      
 5. **Marketing channel:**
    * Local Bike Festivals - heart of Virginia bike festival, youth  cross country bicycle rodeo
-   * Partnership with local communities\
+   * Partnership with local communities
    * Sponsorships, influencers, competitive bikers 
 
