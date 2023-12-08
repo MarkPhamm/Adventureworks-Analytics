@@ -135,14 +135,15 @@ Here are the current demographic needs for the Model 200
 ## e. Prescriptive Analysis:
 ### 12. Business Proposal (To-be​) Actionable Insight:
 1. **Cut product**
-2. **Using that budget to create a marketing campaign to tap into a new market for Model 200**
-   * **Location Suggestions: (Appalachian Mountains:)**
-   * **Citerias:**
+   * Cut Road 650, Road 750, Clothing Caps
+3. **Using that budget to create a marketing campaign to tap into a new market for Model 200**
+   * **Location:** Appalachian Mountains
+   * **Criteria:**
    ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/eb253e0f-59e6-4612-b662-d1c0ba24612d)
-   * **Sugesstions**
-     *  Virginia (Roanoke)
-     *  West Virginia (Morgantown)
-     *  North Carolina (Asheville)
+   * **Suggestions**
+     - Virginia (Roanoke)
+     - West Virginia (Morgantown)
+     - North Carolina (Asheville)
    * **Demographic:**
      - Education: Bachelors, Graduate and Partial College
      - Occupation: Professional, Management, and Skill Manual
@@ -154,7 +155,12 @@ Here are the current demographic needs for the Model 200
      - October
      - November
      - December
-3. **Create bundles with the Marketing campaign**
-4. **Marketing channel:**
-   - 
+    
+4. **Create bundles with the Marketing campaign**
+   * Create bundles when selling Mountain Bikes with Clothing/Accessories to increase purchasing initiative 
+     
+5. **Marketing channel:**
+   * Local Bike Festivals - heart of Virginia bike festival, youth  cross country bicycle rodeo
+   * Partnership with local communities\
+   * Sponsorships, influencers, competitive bikers 
 
