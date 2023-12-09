@@ -1,3 +1,5 @@
+[Presentation Link](https://www.canva.com/design/DAF2QJwwbeg/kE8JyzSvHUKcj1ycDI4BeQ/edit?utm_content=DAF2QJwwbeg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
 **Please download the HTML version of the Jupiter Notebook to interact with the Chart**
 
 # General Overview
