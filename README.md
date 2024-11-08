@@ -136,16 +136,36 @@ Here are the current demographic needs for the Model 200
 
 
 ## d. Predictive Analysis:
+**Decomposition & Trend Identification**  
+Before diving into predictive modeling, a time series decomposition was performed to observe underlying patterns, including trends, seasonality, and residuals. This helped confirm strong seasonal patterns but revealed some irregularities that simple models might struggle with. Since we don't see any clear seasonality, we can remove this factor
+
 ### 9. Trendline
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/75555e76-62dc-40f4-b5f3-366fe8d7502a)
 
 ### 10. ARIMA Model
+Instead of manually analyzing ACF and PACF plots to determine the optimal parameters for ARIMA, AutoARIMA was chosen for its ability to automate this process. This approach reduced complexity while still ensuring a model tuned to the data’s characteristics. The trade-off here is a slight loss of manual control over parameter selection for the sake of efficiency and speed.
+
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/91b0cb94-0d52-4291-bf04-baeb1c312e7d)
 
 ### 11. LSTM model
+Given the limitations of ARIMA in capturing non-linear patterns, LSTM (Long Short-Term Memory) networks were introduced. LSTM models excel in handling long-term dependencies and non-linear relationships, making them ideal for complex time series data with irregular fluctuations.
+
 ![image](https://github.com/MarkPhamm/Adventureworks-Analytics/assets/99457952/9dd736d6-5894-432c-91cb-5d211d450192)
 
+**Model Selection Trade-offs**  
+- **ARIMA**: Works well with linear trends and seasonality. Quick to train but struggles with non-linear patterns.  
+- **LSTM**: Captures non-linear dynamics but requires more data and computational resources, with longer training times.
 
+
+**MAPE Comparison**  
+To evaluate performance, the Mean Absolute Percentage Error (MAPE) was calculated for each model:  
+- **ARIMA**: MAPE ~ 8%  
+- **LSTM**: MAPE ~ 5%  
+
+Although LSTM outperforms ARIMA in predictive accuracy, its complexity and computational overhead must be justified by the business context and the importance of precise predictions. 
+
+**Conclusion**  
+Both models have distinct strengths. For short-term, linear forecasting, ARIMA is sufficient. However, for capturing long-term trends with non-linear patterns, LSTM is the preferred model.
 
 ## e. Prescriptive Analysis:
 ### 12. Business Proposal (To-be​) Actionable Insight: Increase Model-200 Sales
